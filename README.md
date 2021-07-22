@@ -1,0 +1,2 @@
+# MSG_Attachment_Extraction_VBS
+OutlookのMSGファイルから添付ファイルを抽出するVBS
